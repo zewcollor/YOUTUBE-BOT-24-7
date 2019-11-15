@@ -1,0 +1,2 @@
+# YOUTUBE-BOT-24-7
+PREFIX f!
